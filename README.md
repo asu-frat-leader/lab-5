@@ -21,7 +21,7 @@ This assignment demonstrates that basic color features like Hue and Saturation c
 
 ### 1. Face Clusters based on hue and saturation
 ![Face Clusters](graphs/Face_Clusters.png)
-
+ 
 ### 2. Clustered faces with centroids
 ![Clustered faces with centroids](graphs/Clusters_With_Centroids.png)
 
